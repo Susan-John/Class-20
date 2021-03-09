@@ -1,4 +1,4 @@
-vvar fixedRect, movingRect;
+var fixedRect, movingRect;
 
 function setup() {
   createCanvas(1200,800);
